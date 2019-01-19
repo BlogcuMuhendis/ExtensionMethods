@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\bin\Debug\StringExtensionü.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\bin\Debug\StringExtensionü.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\bin\Debug\StringExtensionü.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\obj\Debug\StringExtensionü.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\obj\Debug\StringExtensionü.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\TarihFormatıApp\StringExtensionü\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache

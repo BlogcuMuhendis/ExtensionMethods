@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExtension", "TarihFormatıApp\DateTimeExtension.csproj", "{7FDA909D-A415-4032-AC92-59F18F720FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExtension", "MathExtension\MathExtension.csproj", "{FD8A72DD-4003-4C7D-928D-EB9B78AB74E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtension", "StringExtensionü\StringExtension.csproj", "{02AD385E-92FE-4611-9D91-526EA8C460FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FDA909D-A415-4032-AC92-59F18F720FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDA909D-A415-4032-AC92-59F18F720FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDA909D-A415-4032-AC92-59F18F720FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDA909D-A415-4032-AC92-59F18F720FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8A72DD-4003-4C7D-928D-EB9B78AB74E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8A72DD-4003-4C7D-928D-EB9B78AB74E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8A72DD-4003-4C7D-928D-EB9B78AB74E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8A72DD-4003-4C7D-928D-EB9B78AB74E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AD385E-92FE-4611-9D91-526EA8C460FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AD385E-92FE-4611-9D91-526EA8C460FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AD385E-92FE-4611-9D91-526EA8C460FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AD385E-92FE-4611-9D91-526EA8C460FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
